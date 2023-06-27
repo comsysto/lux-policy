@@ -1,1 +1,1 @@
-# lux-policy.github.io
+# lux-policy
